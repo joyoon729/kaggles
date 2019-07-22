@@ -1,3 +1,6 @@
 *checkpoints*
-data/
+*.csv
+*.txt
+!url
+!*submission.csv
 
